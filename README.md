@@ -2,7 +2,7 @@
 
 ## A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
 
-I wrote these notebooks in the winter of March 2017 while I took the [COMP 767: Reinforcement Learning] (https://www.cs.mcgill.ca/~dprecup/courses/rl.html) class by Prof. Doina Precup at McGill, Montréal in Winter 2017. I highly recommend you to go through the class notes and references of all the papers the intructors have posted on the website.
+I wrote these notebooks in the winter of March 2017 while I took the *COMP 767: Reinforcement Learning* [5] class by Prof. Doina Precup at McGill, Montréal in Winter 2017. I highly recommend you to go through the class notes and references of all the papers the intructors have posted on the website.
 
 These notebooks should be used while you read the book and go beyond the same with the referenced papers. I would suggest watching David Silver's videos and reading the book simultaneously. And when you are done with a few chapters, start implementing them. The algorithms follow a pattern and mostly are variants of each other. I have tried my best to explain each notebook's results and possible future directions.
 
@@ -21,4 +21,4 @@ Special Credits:
 
 [4] [David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
-[5] [Doina Precup's course](https://www.cs.mcgill.ca/~dprecup/courses/rl.html))
+[5] [Doina Precup's course](https://www.cs.mcgill.ca/~dprecup/courses/rl.html)
